@@ -32,7 +32,7 @@ This app helps businesses identify customers at risk of leaving and take proacti
 ## 🛠️ Installation
 
 ### **Prerequisites**
-- Python 3.7+
+- Python 3.8+
 - pip (Python package manager)
 
 ### **Step 1: Clone the Repository**
